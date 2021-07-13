@@ -186,7 +186,7 @@ This project follows the MIT [License](LICENSE)
 <h2> 😎 Project Admin</h2>
 <table>
   <tr>
-<td align="center" <<a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="100px" alt=""/><br /<sub><b>Samarth M R</b></sub></a>
+<td align="center" <a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="100px" alt=""/><br /<sub><b>Samarth M R</b></sub></a>
 </td>
   </tr>
 </table>
