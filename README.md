@@ -113,11 +113,10 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 This project is a part of these open source programs.
  
-<tr>
- <td>
-<a href="https://github.com/SamarthMR"><img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg" width=150px height=150px /></a> 
- </td>
-</tr>
+<p>
+<img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg"
+     width="200" height="200">
+</p>
 
 
 <h2>🙌Levels & Points (DCP)</h2>
