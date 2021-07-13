@@ -176,18 +176,18 @@ This project follows the MIT [License](LICENSE)
 <h2>✔Mentors(DevIncept)</h2>
 
 <p>
-   <a href="https://github.com/prathimacode-hub"></a>
-   <img src="https://avatars.githubusercontent.com/u/74645302?v=4"
-        width="100px" alt="">
+   <a href="https://github.com/prathimacode-hub">
+      <img src="https://avatars.githubusercontent.com/u/74645302?v=4"
+        width="100px" alt=""></a>
 </p>
 
 
 <h2> 😎 Project Admin</h2>
 
 <p>
-   <a href="https://github.com/SamarthMR"></a>
-   <img src="https://avatars.githubusercontent.com/u/54024433?v=4"
-        width="120px" alt="">
+   <a href="https://github.com/SamarthMR">
+      <img src="https://avatars.githubusercontent.com/u/54024433?v=4"
+        width="120px" alt=""></a>
 </p>
 
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
