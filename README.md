@@ -113,7 +113,7 @@ This project is a part of these open source programs.
  
 <tr>
  <td>
-<a href="https://github.com/SamarthMR"><img src="https://github.com/SamarthMR/SamarthMR/blob/main/assets/image/DevIncept_logo.jpg" width=150px height=150px /></a> 
+<a href="https://github.com/SamarthMR/SamarthMR"><img src="https://github.com/SamarthMR/SamarthMR/blob/main/assets/image/DevIncept_logo.jpg" width=150px height=150px /></a> 
  </td>
 </tr>
 </table>
