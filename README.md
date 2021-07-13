@@ -56,9 +56,11 @@ You can get even the tiniest details concerning the project from this file provi
 
 Shouting out to all of you who are interested in open-source contribution in the field of Healthcare using modern technologies like **Artificial Intelligence(AI), Machine Learning(ML), Deep Learning(DL) and Computer Vision(OpenCV)** and by using the most famous and easy programming language - **Python**, this is the place where you can contribute, learn and get a wonderful experience to showcase your skills in the future !!
 
-If you worked on or want to initiate and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING_GUIDELINES](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
+If you worked on or want to initiate and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING_GUIDELINES](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/CONTRIBUTING_GUIDELINES.md
 
-When raising an issue, do make sure to mention the idea, approach and implementation. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
+
+When raising an issue, do make sure to mention the details asked, idea, approach and implementation on how would you like to proceed so that we could understand better and assign it to you accordingly. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
+Even PR, needs to followed with the template provided. 
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
