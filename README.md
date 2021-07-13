@@ -177,7 +177,7 @@ This project follows the MIT [License](LICENSE)
 
 <table>
   <tr>
-     <a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt="" /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt="" /></a>
   </tr>
 </table>
 
@@ -186,7 +186,7 @@ This project follows the MIT [License](LICENSE)
 
 <table>
   <tr>
-     <a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="120px" alt="" /></a>
+<a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="120px" alt="" /></a>
   </tr>
 </table>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
