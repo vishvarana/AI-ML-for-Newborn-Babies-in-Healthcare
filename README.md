@@ -177,7 +177,7 @@ This project follows the MIT [License](LICENSE)
 
 <table>
   <tr>
-<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a>
+     <td align="center"</td><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a>
   </tr>
 </table>
 
@@ -186,7 +186,7 @@ This project follows the MIT [License](LICENSE)
 
 <table>
   <tr>
-<td align="center"</td><a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="100px" alt=""/><br /<sub><b>Samarth M R</b></sub></a>
+      <td align="center"</td><a href="https://github.com/SamarthMR"><img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="100px" alt=""/><br /<sub><b>Samarth M R</b></sub></a>
   </tr>
 </table>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
