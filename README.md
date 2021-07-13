@@ -178,7 +178,7 @@ This project follows the MIT [License](LICENSE)
 <p>
    <a href="https://github.com/prathimacode-hub"></a>
    <img src="https://avatars.githubusercontent.com/u/74645302?v=4"
-     1width="100" alt="">
+        width="100px" alt="">
 </p>
 
 
@@ -186,7 +186,8 @@ This project follows the MIT [License](LICENSE)
 
 <p>
    <a href="https://github.com/SamarthMR"></a>
-   <img src="https://avatars.githubusercontent.com/u/54024433?v=4" width="120px" alt="">
+   <img src="https://avatars.githubusercontent.com/u/54024433?v=4"
+        width="120px" alt="">
 </p>
 
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
