@@ -1,3 +1,6 @@
+#Name- Pratishtha
+#Code for- To convert all images saved in a directory to Grayscale
+
 pip install opencv-python
 
 import cv2
