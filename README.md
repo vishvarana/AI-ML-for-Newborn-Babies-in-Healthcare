@@ -36,8 +36,8 @@ The main idea of this project is to develop a Machine Learning algorithm for cla
 5) **Pain due to Attention-seeking**
 
 These 5 pains can be classified under pain scale into **3 different categories**. They are:
-1) **No Pain (Scale 0 to 2)**
-2) **Mild/Moderate Pain (Scale 3 to 6)**
+1) **No/Mild Pain (Scale 0 to 2)**
+2) **Moderate Pain (Scale 3 to 6)**
 3) **Severe Pain (Scale 7 to 10)**
 
 <p align="center">
