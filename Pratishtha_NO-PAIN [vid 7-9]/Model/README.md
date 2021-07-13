@@ -1,3 +1,4 @@
-Add your code in "Model" folder.
+## CODE FILES
 
-Also the README file of the work you had done. 
+The above code files are the codes I have used form extracting colored anfd Grayscale images.
+I have added comments in my code to make it easy for the reader to understand my approach.
