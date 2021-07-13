@@ -6,6 +6,7 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
 [![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
 
+
 <h2> 📌Repository</h2>
 
 Hey guys👋 myself Samarth, I'm the Program Admin at DevIncept for the 30-day open-source contribution program(DCP2021).
@@ -46,6 +47,9 @@ These 5 pains can be classified under pain scale into **3 different categories**
     
 Based on this classification algorithm, and based on our Data Analysis obtained through the babies Facial expressions, the doctors can get to know the Low-risk and High-risk behaviour from the babies and focus on giving required attention and proper treatment to the babies that are under high-risk severity and can help their life from disasters.
 
+You can get even the tiniest details concerning the project from this file provided below . This file would brief you with the how to get started, things to learn and know before you dive into this project, getting through the instructions along with how this works practically. Make sure you peep into it.💪
+
+Must Visit File : [Project Description](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/PROJECT_DESCRIPTION.md)
 
 <h2> 🙌Join Here</h2>
 
