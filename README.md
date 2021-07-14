@@ -90,6 +90,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - [Feature request](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
 - [Bug Report](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 - [Pull Request](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/PULLRQUEST_TEMPLATE.md)
+- [README](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/README_TEMPLATE.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request. 
 
