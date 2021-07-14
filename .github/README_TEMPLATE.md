@@ -41,7 +41,7 @@ What did you learn while working on this issue.
 Why have you choosed this methodology should also be stated
 
 
-**DETAILED EXPLANATION OF SCRIPT, IF APPLICABLE
+**DETAILED EXPLANATION OF SCRIPT, IF APPLICABLE**
 
 Provide detailed explanation of the script in elaborative manner using points
 
