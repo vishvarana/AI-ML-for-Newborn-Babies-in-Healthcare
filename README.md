@@ -200,9 +200,6 @@ This project follows the MIT [License](LICENSE)
 </table>
 
 
-🎉 Happy Contribution 🎉
-
-
 <h2>📬 Contact</h2>
 
 For any queries, you can always contact me via:
@@ -210,7 +207,8 @@ For any queries, you can always contact me via:
 - LinkedIn: [https://www.linkedin.com/in/samarthmr](https://www.linkedin.com/in/samarthmr)
 - Mobile: [9902916192](9902916192) (Whatsapp only)
 
-# I wish to see you all soon.
+# I wish to see you all soon. 🎉 Happy Contribution 🎉
+
 
 © 2021 Samarth MR
 
