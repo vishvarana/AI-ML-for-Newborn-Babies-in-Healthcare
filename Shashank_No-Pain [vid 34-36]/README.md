@@ -84,11 +84,8 @@ So from this research we will be able to find out the babies current feelings/ s
 ![](Image%20Dataset/Moderate%20Pain/12.jpg)
 
 
-*_Mild Pain_*
-![](Image%20Dataset/No-mild%20pain/420.jpg)
-
-*_Severe_*
-![](Image%20Dataset/Severe/492.jpg)
+*_No-Mild Pain_*
+![](Image%20Dataset/No-Mild%20Pain/108.jpg)
 
 
 **CONCLUSION**
