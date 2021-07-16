@@ -13,7 +13,7 @@ Dataset
 
 OBJECTIVE
 
-The goal was to extract 50 images each from both videos and convert them to grayscale images. Later, classify those images into four categories namely No Pain, Mild, Moderate and Severe based on the facial expression in the images.
+The goal was to extract 50 images each from both videos and convert them to grayscale images. Later, classify those images into 3 categories namely No-Mild, Moderate and Severe based on the facial expression in the images.
 
 
 PROCEDURE
@@ -31,7 +31,7 @@ Compilation steps -
   -> Convert the images into grayscale.
   -> Save the gray images in specific folder.
 
-Classified total 200 images into four different folders based on the expression.
+Classified total 200 images into 3 different folders based on the expression.
 
 
 UNDERSTANDINGS FROM THE WORK
@@ -58,4 +58,5 @@ REFERENCES
 NAME OF AUTHOR
 
 Vanditha M
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/vanditha07/)
