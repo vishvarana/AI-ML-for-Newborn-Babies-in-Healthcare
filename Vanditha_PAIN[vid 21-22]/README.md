@@ -26,9 +26,13 @@ Libraries required - cv2, os
 Compilation steps -
 
   -> Read videos one by one from the folder where they are stored. I have used os module for this purpose.
+  
   -> Extract images from each video.
+  
   -> Save the images in specific folder.
+  
   -> Convert the images into grayscale.
+  
   -> Save the gray images in specific folder.
 
 Classified total 200 images into 3 different folders based on the expression.
