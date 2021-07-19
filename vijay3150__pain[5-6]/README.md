@@ -17,7 +17,7 @@ The purpose of this issue was to extract 50 images each from both videos and con
 
 DATASET
 
-Videos 5-6 from Pain folder in DATASET
+Videos 5-6 from Pain folder in [DATASET](https://livemissouristate-my.sharepoint.com/:f:/g/personal/nyc10040_missouristate_edu/Ev2GCLuXRK1DsgbeiRGRywkBBzLLqRH-OKaMi3rFHuM3iA?e=Zm3XcU)
 
 PROCEDURE
 
@@ -92,15 +92,15 @@ Severe pain
 
 REFERENCES
 
-Reference 1 (https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
+[Reference 1] (https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
 
-Reference 2 (https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
+[Reference 2 ](https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
 
 NAME OF AUTHOR
 
 Vijay .N
 
-Connect with me on Linkedln (https://www.linkedin.com/in/vijay-n-6206b2171/)
+Connect with me on [Linkedln] (https://www.linkedin.com/in/vijay-n-6206b2171/)
 
 
 
