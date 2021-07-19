@@ -92,7 +92,7 @@ Severe pain
 
 REFERENCES
 
-[Reference 1] (https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
+[Reference 1](https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
 
 [Reference 2 ](https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
 
@@ -100,7 +100,7 @@ NAME OF AUTHOR
 
 Vijay .N
 
-Connect with me on [Linkedln] (https://www.linkedin.com/in/vijay-n-6206b2171/)
+Connect with me on [Linkedln](https://www.linkedin.com/in/vijay-n-6206b2171/)
 
 
 
