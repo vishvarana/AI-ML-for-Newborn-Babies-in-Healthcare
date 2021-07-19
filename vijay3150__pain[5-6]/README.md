@@ -75,28 +75,32 @@ SCREENSHOTS
 
 No-Mild Pain
 
-https://raw.githubusercontent.com/vijay3150/AI-ML-for-Newborn-Babies-in-Healthcare/main/vijay3150__pain%5B5-6%5D/image%20dataset/No-mild%20pain/S005_Pain_15.jpg
+
+![S005_Pain_16](https://user-images.githubusercontent.com/87137363/126188947-86a36140-092e-4178-8ca6-c8360d82f817.jpg)
+
 
 
 Moderate pain
 
-https://github.com/vijay3150/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/vijay3150__pain%5B5-6%5D/image%20dataset/moderate%20pain/S005_Pain_1.jpg
+![S005_Pain_5](https://user-images.githubusercontent.com/87137363/126189146-40cdcf8c-bb0b-416f-acdb-0caf779c4fae.jpg)
+
 
 Severe pain
 
-https://github.com/vijay3150/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/vijay3150__pain%5B5-6%5D/image%20dataset/severe%20pain/S005_Pain_12.jpg
+![S005_Pain_11](https://user-images.githubusercontent.com/87137363/126189252-f4a660d7-1048-4783-a297-0fd8ed6eae95.jpg)
+
 
 REFERENCES
 
-Reference 1(https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
+Reference 1 (https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/)
 
-Reference 2(https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
+Reference 2 (https://www.geeksforgeeks.org/extract-images-from-video-in-python/)
 
 NAME OF AUTHOR
 
 Vijay .N
 
-Connect with me on Linkedin (https://www.linkedin.com/in/vijay-n-6206b2171/)
+Connect with me on Linkedln (https://www.linkedin.com/in/vijay-n-6206b2171/)
 
 
 
