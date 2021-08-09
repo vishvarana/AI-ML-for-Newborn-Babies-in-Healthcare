@@ -14,7 +14,7 @@ https://livemissouristate-my.sharepoint.com/:f:/g/personal/nyc10040_missouristat
 
 DESCRIPTION
 
-I researched about extraction of images from video datasets, which can be referenced in the references below. It is about extraction 50 images of both the types(colored as well as grayscale) for the 2 videos that I was assigned with.
+Twins, triplets, and other multiples often are admitted to the NICU. This is because they tend to be born earlier and smaller than single birth babies. Babies with health conditions such as breathing trouble, heart problems, infections, or birth defects are also cared for in the NICU. Determining the pain by their expressions, we can try to ease their pain. The classification is done based on expressions into 3 differemt categories - no/mild,moderate and severe. This would help th healthcare system to deal, better and faster with problems.
 
 WHAT I HAD DONE
 
