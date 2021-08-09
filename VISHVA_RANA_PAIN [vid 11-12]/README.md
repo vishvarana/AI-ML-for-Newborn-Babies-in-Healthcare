@@ -54,6 +54,12 @@ I was completely new to OpenCV, so this was an exposure opportunity, where I got
 SCREENSHOTS
 
 The images in the Images folder are the Output of my code.
+Here are the links -
+https://github.com/vishvarana/AI-ML-for-Newborn-Babies-in-Healthcare/tree/main/VISHVA_RANA_PAIN%20%5Bvid%2011-12%5D/Images/No-Mild
+
+https://github.com/vishvarana/AI-ML-for-Newborn-Babies-in-Healthcare/tree/main/VISHVA_RANA_PAIN%20%5Bvid%2011-12%5D/Images/Moderate
+
+https://github.com/vishvarana/AI-ML-for-Newborn-Babies-in-Healthcare/tree/main/VISHVA_RANA_PAIN%20%5Bvid%2011-12%5D/Images/Severe
 
 CONCLUSION
 
